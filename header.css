@@ -1,0 +1,27 @@
+#header
+{
+    background-color: rgb(155, 175, 199);
+    height: 150px;
+}
+
+.left
+{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
+
+.mid
+{
+    padding-top: 5px;
+    width: 35%;
+    margin: 29px auto;
+    text-align: center;
+}
+
+.right
+{
+    position: absolute;
+    right: 50px;
+    top: 40px;
+}

@@ -1,0 +1,31 @@
+.info
+{
+    text-align: justify;
+    padding: 5px 30px;
+    background-color: rgba(229, 233, 238, 0.7);
+}
+
+.about
+{
+    line-height: 30px;
+}
+
+.table
+{
+    padding: 15px 0px;
+}
+
+.branch_name
+{
+    text-align: left;
+}
+
+center
+{
+    padding: 7px;
+}
+
+table tr
+{
+    text-align: center !important;
+}

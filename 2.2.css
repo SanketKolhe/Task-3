@@ -1,0 +1,21 @@
+h2
+{
+    margin-top: 50px;
+}
+
+.info
+{
+    padding: 5px 30px;
+    line-height: 15px;
+    background-color: rgba(229, 233, 238, 0.7);
+}
+
+.info ul li
+{
+    margin: 10px 0px;
+}
+
+.heading
+{
+    font-weight: bold;
+}
